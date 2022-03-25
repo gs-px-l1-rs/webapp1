@@ -337,6 +337,13 @@ footer.main a:hover{
    outline: none;
  }
  
+ input.nobord {
+   border: none transparent;
+   outline: none;
+   background: #f2f3ee url(../images/bg-tile.gif) top left repeat;
+   margin-left: 20px;
+}
+
 /* Force Elements to Self Clear its Children: http://css-tricks.com/snippets/css/clear-fix/ */
 
 .clearfix:after {
